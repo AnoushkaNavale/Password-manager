@@ -1,0 +1,25 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore log files
+*.log
+
+# Ignore password vault or sensitive files
+passwords.txt
+*.enc
+vault.json
+vault.json.enc
+
+# Ignore build directories
+/bin/
+/out/
+/build/
+
+# Ignore VS Code and IntelliJ project settings
+.vscode/
+.idea/
+*.iml
+
+# Ignore OS-specific junk
+.DS_Store
+Thumbs.db
