@@ -1,5 +1,3 @@
-
-
 import java.util.regex.*;
 
 public class PasswordStrengthChecker {
