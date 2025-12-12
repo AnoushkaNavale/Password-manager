@@ -10,6 +10,7 @@ public class Credential {
     private LocalDateTime createdAt;
     private LocalDateTime updatedAt;
 
+    
     // Required by Gson
     public Credential() {}
 
